@@ -1,0 +1,16 @@
+{
+  "name": "node-web-scrape",
+  "version": "0.0.1",
+  "description": "Scrape le web.",
+  "main": "server.js",
+  "author": "Scotch",
+  "dependencies": {
+    "cheerio": "latest",
+    "express": "latest",
+    "mkdirp": "^0.5.1",
+    "request": "latest"
+  },
+  "devDependencies": {
+    "fs": "0.0.1-security"
+  }
+}
